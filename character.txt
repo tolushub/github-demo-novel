@@ -1,3 +1,6 @@
+==========
+CHARACTER
+===========
 Nick
 Tom
 Harry
